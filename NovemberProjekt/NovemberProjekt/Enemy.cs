@@ -11,8 +11,11 @@ namespace NovemberProjekt
     {
         public int hp = 0;
 
+        //ett mellanting mellan en metod och en variabel
         public int Hp
         {
+            //get set gör att man kan lägga till mer logik och ger en mer redigerings möjligheter
+            
             get
             {
                 return hp;
