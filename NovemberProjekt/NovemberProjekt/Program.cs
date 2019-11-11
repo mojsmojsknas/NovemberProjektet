@@ -23,7 +23,10 @@ namespace NovemberProjekt
 
             while (quit == false)
             {
+                Enemy e = new Enemy();
 
+                Console.WriteLine(e.Hp);
+                Console.ReadKey();
 
 
 

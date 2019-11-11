@@ -1,0 +1,7 @@
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\bin\Debug\NovemberProjekt.exe.config
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\bin\Debug\NovemberProjekt.exe
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\bin\Debug\NovemberProjekt.pdb
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\obj\Debug\NovemberProjekt.csprojResolveAssemblyReference.cache
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\obj\Debug\NovemberProjekt.csproj.CoreCompileInputs.cache
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\obj\Debug\NovemberProjekt.exe
+C:\Users\alva.carlbring\Documents\GitHub\NovemberProjektet\NovemberProjekt\NovemberProjekt\obj\Debug\NovemberProjekt.pdb
