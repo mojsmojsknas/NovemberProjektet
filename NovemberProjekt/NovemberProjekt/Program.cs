@@ -20,7 +20,7 @@ namespace NovemberProjekt
     just arv till projektet. Jag kommer nog vara tvungen att programera hemma :( eller
     göra ett mindre projekt än vad jag tänkt mig. Vi får se
     */
-
+    //använd virtual override på lvl 
     class Program
     {
         static void Main(string[] args)
