@@ -23,9 +23,11 @@ namespace NovemberProjekt
     //använd virtual override på lvl 
     /*2019-11-18
      Börjat slänga in alla de klasser jag vill ha och hur jag vill ha dom. Med andra
-     ord vilka som är bas- och subklasser. 
+     ord vilka som är bas- och subklasser. Jag har mesta dels arbetat i mitt ide dokument.
+     Jag har försökt lyckas fixa till mina klassdiagram för att försöka organisera mina
+     tankar om hur projektet ska se ut. 
     */
-    
+
     class Program
     {
         static void Main(string[] args)
