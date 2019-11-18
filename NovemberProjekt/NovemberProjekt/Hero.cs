@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace NovemberProjekt
 {
-    class Enemy : Hero 
+    class Hero : Character
     {
+
 
     }
 }

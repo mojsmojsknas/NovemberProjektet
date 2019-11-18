@@ -21,16 +21,22 @@ namespace NovemberProjekt
     göra ett mindre projekt än vad jag tänkt mig. Vi får se
     */
     //använd virtual override på lvl 
+    /*2019-11-18
+     Börjat slänga in alla de klasser jag vill ha och hur jag vill ha dom. Med andra
+     ord vilka som är bas- och subklasser. 
+    */
+    
     class Program
     {
         static void Main(string[] args)
         {
-            
+            //så man kan avsluta spelet 
             bool quit = false;
 
 
             while (quit == false)
             {
+                
                 //skapar en enemy
                 Enemy e = new Enemy();
                 //hämtar get från Hp och skriver ut det 
